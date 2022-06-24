@@ -1,0 +1,19 @@
+{
+  "name": "bg-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heminpatel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.0",
+    "sqlite3": "^5.0.8",
+    "validatorjs": "^3.22.1"
+  }
+}
