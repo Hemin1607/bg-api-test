@@ -15,7 +15,7 @@
     "express": "^4.18.1",
     "mysql2": "^2.3.3",
     "sequelize": "^6.21.0",
-    "sqlite3": "^5.0.8",
+    "sqlite3": "^5.1.7",
     "validatorjs": "^3.22.1"
   },
   "devDependencies": {
